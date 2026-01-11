@@ -1,2 +1,3 @@
 # WeIntern
-All the project/task files through my Data Science and Analytics Internship
+Please look into the respective branches for task files of each week
+Every week will have its own branch
